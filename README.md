@@ -1,6 +1,6 @@
 # GoSleepyCrypt
 
-Sleep and heap encryption for a Go application through a shellcode function.
+In-memory sleep encryption and heap encryption for Go applications through a shellcode function.
 
 The basic concept and a lot of the code is taken from [here](https://github.com/SolomonSklash/SleepyCrypt), so all the credits go to Solomon Sklash.
 

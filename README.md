@@ -1,4 +1,4 @@
-# GoSleepyCrypt
+# GoSleepyCrypt / Go Sleep and Heap Encryption
 
 In-memory sleep encryption and heap encryption for Go applications through a shellcode function.
 
